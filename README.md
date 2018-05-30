@@ -1,2 +1,2 @@
 # PrOperator
-Repository for an idea.
+Repository for modifications of my idea
